@@ -3,7 +3,6 @@ from setuptools import setup
 from setuptools import find_packages
 
 setup(name='soalfitra',
-      version=learntools.__version__,
       description='Utilities for Kaggle Learn exercises',
       url='https://github.com/fitrawahyudi2004/soal',
       author='fwd',
