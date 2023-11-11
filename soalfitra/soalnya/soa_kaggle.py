@@ -1,4 +1,4 @@
-from soalfitra import *
+
 
 def operasi_aritmatika(num1, num2):
     # Penjumlahan
