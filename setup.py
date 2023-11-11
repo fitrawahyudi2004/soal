@@ -1,4 +1,5 @@
 import soalfitra
+from setuptools import setup
 
 setup(name='soalfitra',
       description='njir',
